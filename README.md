@@ -1,3 +1,3 @@
 # Profectional-Details
 
-[www.axtsoft.org/Home](http://axtsoft.org/home)
+http://axtsoft.org/home
